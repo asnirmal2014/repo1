@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5218-27F4
+
+ Directory of E:\testgitprj
+
+04-09-2019  09:30 PM    <DIR>          .
+04-09-2019  09:30 PM    <DIR>          ..
+04-09-2019  09:30 PM                 0 testingfile.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  117,006,454,784 bytes free
